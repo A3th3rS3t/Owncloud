@@ -23,6 +23,7 @@ cd Owncloud
 ## 3. Настройка переменных
 В местах, где есть комментарии, замените значения на свои. Например, в.env:
 >OWNCLOUD_DB_PASSWORD=password   # change for your own password
+>
 >OWNCLOUD_DB_HOST=localhost      # set to your own database host if different
 
 Такие строки с комментариями находятся в каждом из трех файлов.

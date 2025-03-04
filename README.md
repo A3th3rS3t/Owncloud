@@ -20,7 +20,7 @@ cd /opt/docker/
 git clone https://github.com/A3th3rS3t/Owncloud.git
 cd Owncloud
 ```
-В репозитории должны быть файлы `docker-compose.yaml`, `nginx.con`f и `.env`.
+В репозитории должны быть файлы `docker-compose.yaml`, `nginx.conf` и `.env`.
 
 ## 3. Настройка переменных
 В местах, где есть комментарии, замените значения на свои. Например, в.env:

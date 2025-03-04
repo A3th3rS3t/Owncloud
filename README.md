@@ -17,7 +17,7 @@ cd /opt/docker/
 
 Клонируйте репозиторий с GitHub:
 ```bash
-git clone https://github.com/A3th3rS3t/Owncloud.git
+git clone https://github.com/A3th3rS3t/Owncloud-docker.git
 cd Owncloud
 ```
 В репозитории должны быть файлы `docker-compose.yaml`, `nginx.conf` и `.env`.
